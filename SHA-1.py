@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# ----------------------------------------------------------------------
-# Copyright (c) 2014 Pablo Caro. All Rights Reserved.
-# Pablo Caro <me@pcaro.es> - https://pcaro.es/
-# SHA1.py
-# ----------------------------------------------------------------------
-
 import sys
 
 
